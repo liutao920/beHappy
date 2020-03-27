@@ -11,6 +11,7 @@ class Settings :
         self.logger = self.__log()
         self.addr = ("localhost", 8888)
         self.buffersize = 1024
+        self.selection = ["1", "2"]
         self.f_lr = """
                     ===========================
                               MENU
@@ -18,20 +19,34 @@ class Settings :
                         
                         2.REGIST(press 2);
                         
-                        3.QUIT(press q);
+                        q.QUIT(press q);
+                    ===========================
+                        >> """
+        self.f_ss = """
+                    ===========================
+                              MENU
+                        3.LOOK UP(press 3);
+
+                        4.CHECK HISTORY(press 4);
+
+                        q.QUIT(press q);
                     ===========================
                         >> """
         self.type_code = {
-            "200":"OK",
+            "200":"注册成功",
+            "201":"登录成功",
             "401":"注册失败,重名警告",
-            "501":"注册失败,服务器异常"
+            "402":"登录失败,用户名或密码错误",
+            "403":"X, no such word",
+            "501":"注册失败,服务器异常",
+            "502":"其他客户端登录,强制退出"
         }
 
     def __log(self):
         logger = logging.getLogger("client_log")
-        logger.setLevel(logging.WARNING)
+        logger.setLevel(logging.INFO)
         handler = logging.FileHandler(self.__logfile)
-        handler.setLevel(logging.WARNING)
+        handler.setLevel(logging.INFO)
         formater = logging.Formatter("[%(filename)s] [%(funcName)s] [%(levelname)s] [%(asctime)s] : %(message)s")
         handler.setFormatter(formater)
         logger.addHandler(handler)

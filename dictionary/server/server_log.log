@@ -1,2 +1,114 @@
-[mysql_work.py] [__dict_book] [WARNING] [2020-03-25 17:19:03,937] : init database and dict table...
-[mysql_work.py] [__dict_book] [WARNING] [2020-03-25 17:19:07,605] : init done...
+[mysql_work.py] [__dict_book] [WARNING] [2020-03-27 10:37:58,479] : init database and dict table...
+[mysql_work.py] [__dict_book] [WARNING] [2020-03-27 10:38:01,707] : init done...
+[main.py] [server_func] [INFO] [2020-03-27 10:38:33,621] : connect from ('127.0.0.1', 42192)
+[main.py] [server_func] [INFO] [2020-03-27 10:39:16,341] : ('127.0.0.1', 42192)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 10:39:22,229] : connect from ('127.0.0.1', 42194)
+[main.py] [server_func] [INFO] [2020-03-27 10:39:22,229] : IMPOSSIBLE
+[main.py] [server_func] [INFO] [2020-03-27 10:39:28,940] : ('127.0.0.1', 42194)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 10:40:22,523] : connect from ('127.0.0.1', 42198)
+[main.py] [server_func] [INFO] [2020-03-27 10:40:31,631] : ('127.0.0.1', 42198)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 10:46:42,370] : connect from ('127.0.0.1', 42204)
+[main.py] [server_func] [INFO] [2020-03-27 10:47:10,986] : ('127.0.0.1', 42204)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 10:48:05,448] : connect from ('127.0.0.1', 42208)
+[main.py] [server_func] [INFO] [2020-03-27 11:13:27,202] : connect from ('127.0.0.1', 42214)
+[main.py] [server_func] [INFO] [2020-03-27 11:13:29,650] : ('127.0.0.1', 42214)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:13:46,013] : ('127.0.0.1', 42208)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:14:13,464] : connect from ('127.0.0.1', 42216)
+[main.py] [server_func] [INFO] [2020-03-27 11:14:16,003] : ('127.0.0.1', 42216)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:14:40,630] : connect from ('127.0.0.1', 42218)
+[main.py] [server_func] [INFO] [2020-03-27 11:14:43,337] : ('127.0.0.1', 42218)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:16:04,323] : connect from ('127.0.0.1', 42220)
+[main.py] [server_func] [INFO] [2020-03-27 11:16:06,406] : ('127.0.0.1', 42220)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:20:15,076] : connect from ('127.0.0.1', 42222)
+[main.py] [server_func] [INFO] [2020-03-27 11:20:16,544] : ('127.0.0.1', 42222)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:27:19,066] : connect from ('127.0.0.1', 42224)
+[main.py] [server_func] [INFO] [2020-03-27 11:28:49,448] : connect from ('127.0.0.1', 42226)
+[main.py] [server_func] [INFO] [2020-03-27 11:29:17,952] : connect from ('127.0.0.1', 42228)
+[main.py] [server_func] [INFO] [2020-03-27 11:30:41,454] : connect from ('127.0.0.1', 42230)
+[main.py] [server_func] [INFO] [2020-03-27 11:31:30,293] : connect from ('127.0.0.1', 42236)
+[main.py] [server_func] [INFO] [2020-03-27 11:32:13,209] : ('127.0.0.1', 42236)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:32:15,966] : ('127.0.0.1', 42230)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:32:17,430] : ('127.0.0.1', 42228)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:32:18,977] : ('127.0.0.1', 42224)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:32:20,973] : ('127.0.0.1', 42226)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:34:09,946] : connect from ('127.0.0.1', 42240)
+[main.py] [server_func] [INFO] [2020-03-27 11:34:49,716] : ('127.0.0.1', 42240)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:35:00,632] : connect from ('127.0.0.1', 42242)
+[main.py] [server_func] [INFO] [2020-03-27 11:37:18,269] : connect from ('127.0.0.1', 42244)
+[main.py] [server_func] [INFO] [2020-03-27 11:37:18,270] : ('127.0.0.1', 42244)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:38:06,277] : connect from ('127.0.0.1', 42250)
+[main.py] [server_func] [INFO] [2020-03-27 11:41:04,121] : connect from ('127.0.0.1', 42252)
+[main.py] [server_func] [INFO] [2020-03-27 11:41:47,632] : connect from ('127.0.0.1', 42254)
+[main.py] [server_func] [INFO] [2020-03-27 11:42:54,727] : ('127.0.0.1', 42254)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:43:21,425] : ('127.0.0.1', 42252)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 11:43:43,656] : connect from ('127.0.0.1', 42258)
+[main.py] [server_func] [INFO] [2020-03-27 11:44:17,639] : ('127.0.0.1', 42258)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 16:29:31,072] : connect from ('127.0.0.1', 42268)
+[main.py] [server_func] [INFO] [2020-03-27 16:29:48,128] : connect from ('127.0.0.1', 42270)
+[main.py] [server_func] [INFO] [2020-03-27 16:34:31,628] : connect from ('127.0.0.1', 42278)
+[main.py] [server_func] [INFO] [2020-03-27 16:35:20,567] : ('127.0.0.1', 42278)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 16:38:53,045] : connect from ('127.0.0.1', 42282)
+[main.py] [server_func] [INFO] [2020-03-27 16:39:04,450] : connect from ('127.0.0.1', 42284)
+[main.py] [server_func] [INFO] [2020-03-27 16:45:25,441] : connect from ('127.0.0.1', 42290)
+[main.py] [server_func] [INFO] [2020-03-27 16:45:38,633] : connect from ('127.0.0.1', 42292)
+[main.py] [server_func] [INFO] [2020-03-27 16:51:46,457] : connect from ('127.0.0.1', 42296)
+[main.py] [server_func] [INFO] [2020-03-27 17:01:56,750] : connect from ('127.0.0.1', 42304)
+[main.py] [server_func] [INFO] [2020-03-27 17:02:15,248] : ('127.0.0.1', 42304)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 17:02:38,714] : connect from ('127.0.0.1', 42306)
+[main.py] [server_func] [INFO] [2020-03-27 17:02:50,208] : connect from ('127.0.0.1', 42308)
+[main.py] [server_func] [INFO] [2020-03-27 17:03:45,593] : connect from ('127.0.0.1', 42310)
+[main.py] [server_func] [INFO] [2020-03-27 17:04:50,719] : connect from ('127.0.0.1', 42314)
+[main.py] [server_func] [INFO] [2020-03-27 17:05:06,654] : connect from ('127.0.0.1', 42316)
+[main.py] [server_func] [INFO] [2020-03-27 17:05:25,890] : connect from ('127.0.0.1', 42318)
+[main.py] [server_func] [INFO] [2020-03-27 17:05:49,574] : connect from ('127.0.0.1', 42320)
+[main.py] [server_func] [INFO] [2020-03-27 17:11:40,438] : connect from ('127.0.0.1', 42324)
+[main.py] [server_func] [INFO] [2020-03-27 17:12:14,330] : connect from ('127.0.0.1', 42326)
+[main.py] [server_func] [INFO] [2020-03-27 17:12:14,331] : ('127.0.0.1', 42326)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 17:15:42,152] : connect from ('127.0.0.1', 42332)
+[main.py] [server_func] [INFO] [2020-03-27 17:15:57,416] : connect from ('127.0.0.1', 42334)
+[main.py] [server_func] [INFO] [2020-03-27 17:15:57,417] : ('127.0.0.1', 42334)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 17:16:28,071] : connect from ('127.0.0.1', 42336)
+[main.py] [server_func] [INFO] [2020-03-27 17:19:35,373] : connect from ('127.0.0.1', 42340)
+[main.py] [server_func] [INFO] [2020-03-27 17:19:45,382] : ('127.0.0.1', 42340)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 17:20:05,933] : connect from ('127.0.0.1', 42342)
+[main.py] [server_func] [INFO] [2020-03-27 17:20:15,944] : ('127.0.0.1', 42342)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 17:22:57,324] : connect from ('127.0.0.1', 42344)
+[main.py] [server_func] [INFO] [2020-03-27 17:23:07,336] : ('127.0.0.1', 42344)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 17:26:35,033] : connect from ('127.0.0.1', 42354)
+[main.py] [server_func] [INFO] [2020-03-27 17:26:45,042] : ('127.0.0.1', 42354)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 17:27:01,440] : connect from ('127.0.0.1', 42356)
+[main.py] [server_func] [INFO] [2020-03-27 17:27:11,450] : ('127.0.0.1', 42356)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 17:29:05,734] : connect from ('127.0.0.1', 42362)
+[main.py] [server_func] [INFO] [2020-03-27 17:30:19,628] : connect from ('127.0.0.1', 42366)
+[main.py] [server_func] [INFO] [2020-03-27 17:30:58,276] : connect from ('127.0.0.1', 42370)
+[main.py] [server_func] [INFO] [2020-03-27 17:52:36,464] : connect from ('127.0.0.1', 42376)
+[main.py] [server_func] [INFO] [2020-03-27 17:53:16,571] : connect from ('127.0.0.1', 42380)
+[main.py] [server_func] [INFO] [2020-03-27 17:53:26,579] : ('127.0.0.1', 42380)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:06:26,616] : connect from ('127.0.0.1', 42388)
+[main.py] [server_func] [INFO] [2020-03-27 18:06:58,582] : connect from ('127.0.0.1', 42392)
+[main.py] [server_func] [INFO] [2020-03-27 18:06:58,583] : ('127.0.0.1', 42392)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:07:29,508] : connect from ('127.0.0.1', 42396)
+[main.py] [server_func] [INFO] [2020-03-27 18:09:09,584] : ('127.0.0.1', 42396)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:14:23,280] : connect from ('127.0.0.1', 42400)
+[main.py] [server_func] [INFO] [2020-03-27 18:14:23,281] : ('127.0.0.1', 42400)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:15:55,212] : connect from ('127.0.0.1', 42402)
+[main.py] [server_func] [INFO] [2020-03-27 18:15:55,213] : ('127.0.0.1', 42402)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:16:07,100] : connect from ('127.0.0.1', 42404)
+[main.py] [server_func] [INFO] [2020-03-27 18:17:37,696] : connect from ('127.0.0.1', 42412)
+[main.py] [server_func] [INFO] [2020-03-27 18:19:54,314] : connect from ('127.0.0.1', 42416)
+[main.py] [server_func] [INFO] [2020-03-27 18:19:54,316] : ('127.0.0.1', 42416)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:20:47,992] : connect from ('127.0.0.1', 42418)
+[main.py] [server_func] [INFO] [2020-03-27 18:20:47,993] : ('127.0.0.1', 42418)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:20:55,823] : connect from ('127.0.0.1', 42420)
+[main.py] [server_func] [INFO] [2020-03-27 18:25:59,148] : connect from ('127.0.0.1', 42428)
+[main.py] [server_func] [INFO] [2020-03-27 18:25:59,149] : ('127.0.0.1', 42428)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:26:04,258] : connect from ('127.0.0.1', 42430)
+[main.py] [server_func] [INFO] [2020-03-27 18:26:04,259] : ('127.0.0.1', 42430)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:26:16,633] : connect from ('127.0.0.1', 42432)
+[main.py] [server_func] [INFO] [2020-03-27 18:26:16,634] : IMPOSSIBLE zh@zhang@zhagn 
+[main.py] [server_func] [INFO] [2020-03-27 18:26:32,285] : ('127.0.0.1', 42432)断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:29:58,465] : connect from ('127.0.0.1', 42436)
+[main.py] [server_func] [INFO] [2020-03-27 18:29:58,466] : None断开连接
+[main.py] [server_func] [INFO] [2020-03-27 18:30:07,904] : connect from ('127.0.0.1', 42438)
+[main.py] [server_func] [INFO] [2020-03-27 18:31:03,054] : connect from ('127.0.0.1', 42442)
+[main.py] [server_func] [INFO] [2020-03-27 18:31:03,057] : None断开连接

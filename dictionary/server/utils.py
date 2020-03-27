@@ -27,5 +27,5 @@ class Settings :
 
     def hash(self, value):
         md5 = hashlib.md5()
-        data = md5.update(value)
-        return data.hexdigest()
+        md5.update(value.encode("utf-8"))
+        return md5.hexdigest()
